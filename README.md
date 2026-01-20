@@ -25,8 +25,8 @@ sql-sales-data-analysis/
 └── README.md
 ```
 ## 🔍 Key SQL Concepts Demonstrated
-*INNER JOIN across multiple tables
-
+* INNER JOIN across multiple tables
+ 
 * GROUP BY and aggregate functions (SUM, AVG)
 
 * Subqueries
